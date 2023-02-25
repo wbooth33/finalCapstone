@@ -8,3 +8,5 @@ Once the program starts running, you will be faced with a menu of how you would 
 Screenshot of how the menu will look when running program.
 ![image](https://user-images.githubusercontent.com/120789709/221370714-a540e598-98c4-4bb1-8334-446327c5de43.png)
 
+Example of how the program runs when user enter "3" for View all shoes in Directory.
+![image](https://user-images.githubusercontent.com/120789709/221370796-c2eb3945-44e6-4906-98ca-e9aa7ea6c9e8.png)
