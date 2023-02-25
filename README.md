@@ -10,3 +10,7 @@ Screenshot of how the menu will look when running program.
 
 Example of how the program runs when user enter "3" for View all shoes in Directory.
 ![image](https://user-images.githubusercontent.com/120789709/221370796-c2eb3945-44e6-4906-98ca-e9aa7ea6c9e8.png)
+
+
+Credit:
+William Booth https://github.com/wbooth33
