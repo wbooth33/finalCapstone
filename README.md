@@ -4,3 +4,7 @@ A simple project I created in Python using OOP classification and defining my ow
 To run the program, copy the inventory.py and inventory.txt file to a code editor such as VS Code and run the program. Make sure both files are within the same file location.
 
 Once the program starts running, you will be faced with a menu of how you would like to proceed. Simply enter your desired menu option and enter any information the program request to get your desired output.
+
+Screenshot of how the menu will look when running program.
+![image](https://user-images.githubusercontent.com/120789709/221370714-a540e598-98c4-4bb1-8334-446327c5de43.png)
+
