@@ -12,5 +12,6 @@ Example of how the program runs when user enter "3" for View all shoes in Direct
 ![image](https://user-images.githubusercontent.com/120789709/221370796-c2eb3945-44e6-4906-98ca-e9aa7ea6c9e8.png)
 
 
-Credit:
+Credits:
+HyperionDev
 William Booth https://github.com/wbooth33
